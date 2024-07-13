@@ -1,16 +1,14 @@
-## Hi there 👋
+# Román Ariel Ripari
 
-<!--
-**romanripari/romanripari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst**
 
-Here are some ideas to get you started:
+- **Especialidades:** Excel VBA, Alteryx, Python
+- **Ubicación:** Buenos Aires, Argentina
+- **Experiencia:**
+  - Senior Data Analyst en PGD Latam
+  - VBA - Alteryx Senior Analyst en Ernst & Young
+  - Data Project Analyst en IPG Mediabrands
+  - Senior Analyst en Nielsen
+- **Certificaciones:** Python PCEP, EF SET English Proficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Más información](https://romanripari.ar)
